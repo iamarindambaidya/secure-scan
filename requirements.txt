@@ -1,0 +1,5 @@
+bandit
+pdfkit
+Jinja2
+requests
+weasyprint
